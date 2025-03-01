@@ -9,7 +9,7 @@ __double underscore too__
 
 _as is single undescore_
 
-~~double tilde is strike through~~ but not showing up on ~~preview~~ for some reason?
+~~double tilde is strike through~~ on editor but ~single tilde~ is strikethrough on preview for some reason
 
 > block quote or quotations are preceeded by greater than symbols and a space
 >
