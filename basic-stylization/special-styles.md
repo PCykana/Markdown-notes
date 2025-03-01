@@ -25,3 +25,9 @@ three - as Horizontal rule
 
 ___
 3 _ as Horizontal rule
+
+> ok that's *neat* and __all__ but can i put ~formatting~ in block quotes?
+> **does** it *work* all ~~the~~ ways?
+> ### Well tilde is broken
+> ---
+> # Obviously.
