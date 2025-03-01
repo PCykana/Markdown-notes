@@ -22,3 +22,7 @@ console.log(x);
 
 
 also show off code with 3 single quotes or one single quote for 'smaller' 'stuff'
+
+
+hmm look into code stuff later this has probably changed
+
