@@ -9,7 +9,7 @@ __double underscore too__
 
 _as is single undescore_
 
-~~double tilde is strike through~~ on editor but ~single tilde~ is strikethrough on preview for some reason
+~~double tilde is strike through~~ but ~single tilde~ is strikethrough on preview but not editor
 
 > block quote or quotations are preceeded by greater than symbols and a space
 >
@@ -31,3 +31,4 @@ ___
 > ### Well tilde is broken
 > ---
 > # Obviously.
+ok it's not borked anymore and i don't know why ¯\_(ツ)_/¯
